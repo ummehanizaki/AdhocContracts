@@ -1,0 +1,4 @@
+.hypothesis/*
+.env
+*.pyc
+build/*
